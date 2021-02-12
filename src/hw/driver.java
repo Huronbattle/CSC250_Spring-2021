@@ -1,7 +1,7 @@
 package hw;
 
 
-public class Hw1 {
+public class driver {
 
 	public static void main(String[] args) {
 		String s = "Hey, you. You're finally awake. You were trying to cross the border, right? "
